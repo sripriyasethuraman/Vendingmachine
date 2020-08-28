@@ -2,7 +2,7 @@ Readme.md README This script is intended to iplement the vending application
 
 Pre-requisites To clone the repo:
 
-https://github.com/sripriyasethuraman/Vendingmachine/
+https://github.com/sripriyasethuraman/Vendingmachine
 
 Installation
 
